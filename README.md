@@ -2,6 +2,7 @@
 Lithium is a batteries-included Django starter project with everything you need to start coding, including user authentication, static files, default styling, debugging, DRY forms, custom error pages, and more.
 
 
+
 > This project was formerly known as _DjangoX_ but was renamed to _Lithium_ in November 2024.
 
 https://github.com/user-attachments/assets/8698e9dd-1794-4f96-9c3f-85add17e330b
